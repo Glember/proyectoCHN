@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProyectoChnApplication<proyectoCHN>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.proyectoCHN.ProyectoChnApplication",
+            "projectName": "proyectoCHN",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
